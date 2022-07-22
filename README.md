@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @mabe-emon aka Emon
+- 👋 Hi, I’m Md. Abu Bakar aka Emon
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning The Odin Project
+- 🌱 I’m currently a Laravel Developer
 - 💞️ I’m looking to collaborate on any project which can help me to be a fullstack developer
-- 📫 How to reach me: call me: +8801515221565 or email me at: emon.mabe@gmail.com
+- 📫 How to reach me: call me: +8801770568579 or email me at: emon.mabe@gmail.com
 
 <!---
 mabe-emon/mabe-emon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

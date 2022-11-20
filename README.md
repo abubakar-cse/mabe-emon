@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Md. Abu Bakar aka Emon
-- 👀 I’m interested in fullstack development
+- 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently a Laravel Developer
-- 💞️ I’m looking to collaborate on any project which can help me to be a fullstack developer
+- 💞️ I’m looking to collaborate on any project which can help me to be a Fullstack Developer
 - 📫 How to reach me: call me: +8801770568579 or email me at: emon.mabe@gmail.com
 
 <!---
